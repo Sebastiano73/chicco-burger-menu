@@ -1,0 +1,654 @@
+{
+  "prodotti": [
+    {
+      "categoria": "paniniVegetariani",
+      "nome": "Maestro",
+      "ingredienti": [
+        "pomodoro",
+        "mozzarella"
+      ],
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "paniniVegetariani",
+      "nome": "Professore",
+      "ingredienti": [
+        "pomodoro",
+        "mozzarella",
+        "melanzane grigliate",
+        "lattuga"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "paniniVegetariani",
+      "nome": "Ortolano",
+      "ingredienti": [
+        "cipolla",
+        "peperoni",
+        "lattuga",
+        "melanzane",
+        "patatine"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Commessa",
+      "ingredienti": [
+        "prosciutto crudo",
+        "mozzarella"
+      ],
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Baby sitter",
+      "ingredienti": [
+        "prosciutto cotto",
+        "mozzarella"
+      ],
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Elettrauto",
+      "ingredienti": [
+        "speck",
+        "mozzarella",
+        "melanzane grigliate",
+        "maionese"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Forestale",
+      "ingredienti": [
+        "salame piccante",
+        "maionese",
+        "mozzarella",
+        "funghi"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Benzinaio",
+      "ingredienti": [
+        "pancetta",
+        "mozzarella",
+        "pomodoro",
+        "maionese",
+        "tabasco"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Segretaria",
+      "ingredienti": [
+        "prosciutto cotto",
+        "pomodoro",
+        "mozzarella",
+        "lattuga",
+        "maionese"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Mister",
+      "ingredienti": [
+        "prosciutto crudo",
+        "pomodoro",
+        "mozzarella",
+        "funghi"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Avvocato",
+      "ingredienti": [
+        "prosciutto crudo",
+        "mozzarella",
+        "maionese",
+        "pomodoro",
+        "lattuga"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Gommista",
+      "ingredienti": [
+        "speck",
+        "mozzarella",
+        "pomodoro",
+        "carciofini"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Odontotecnico",
+      "ingredienti": [
+        "porchetta",
+        "mozzarella",
+        "pomodoro",
+        "funghi"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Boss",
+      "ingredienti": [
+        "porchetta",
+        "mozzarella",
+        "funghi piccanti",
+        "melanzane grigliate",
+        "maionese"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniSalumi",
+      "nome": "Meccanico",
+      "ingredienti": [
+        "prosciutto crudo",
+        "mozzarella",
+        "pomodoro",
+        "lattuga",
+        "melanzane grigliate",
+        "patatine"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Deejay",
+      "ingredienti": [
+        "wurstel",
+        "ketchup",
+        "maionese"
+      ],
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Studente",
+      "ingredienti": [
+        "wurstel",
+        "patatine",
+        "ketchup",
+        "maionese"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Idraulico",
+      "ingredienti": [
+        "wurstel",
+        "patatine",
+        "maionese",
+        "ketchup",
+        "crauti"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Imbianchino",
+      "ingredienti": [
+        "wurstel",
+        "cipolla",
+        "maionese",
+        "ketchup"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Pasticciere",
+      "ingredienti": [
+        "wurstel",
+        "insalata capricciosa",
+        "crauti",
+        "ketchup",
+        "maionese"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "paniniWurstel",
+      "nome": "Artificiere",
+      "ingredienti": [
+        "wurstel",
+        "ketchup",
+        "maionese",
+        "cipolla",
+        "crauti",
+        "senape",
+        "tabasco"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Vetraio",
+      "ingredienti": [
+        "hamburger",
+        "patatine",
+        "maionese",
+        "ketchup"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Barista",
+      "ingredienti": [
+        "hamburger",
+        "pomodoro",
+        "lattuga",
+        "maionese",
+        "ketchup"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Muratore",
+      "ingredienti": [
+        "hamburger",
+        "ketchup",
+        "mozzarella",
+        "melanzane grigliate"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Attore",
+      "ingredienti": [
+        "hamburger",
+        "melanzane grigliate",
+        "peperoni",
+        "maionese"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Musicista",
+      "ingredienti": [
+        "hamburger",
+        "cipolla",
+        "mozzarella",
+        "pomodoro",
+        "maionese"
+      ],
+      "prezzo": 5.3
+    },
+    {
+      "categoria": "paniniHamburger",
+      "nome": "Pizzaiolo",
+      "ingredienti": [
+        "hamburger",
+        "cipolla",
+        "mozzarella",
+        "speck",
+        "pomodoro",
+        "maionese"
+      ],
+      "prezzo": 6.0
+    },
+    {
+      "categoria": "paniniBraciole",
+      "nome": "Dentista",
+      "ingredienti": [
+        "braciole di suino",
+        "pomodoro",
+        "mozzarella"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniBraciole",
+      "nome": "Autista",
+      "ingredienti": [
+        "braciole di suino",
+        "mozzarella",
+        "cipolla"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniBraciole",
+      "nome": "Pilota",
+      "ingredienti": [
+        "braciole di suino",
+        "patatine",
+        "ketchup",
+        "maionese"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniBraciole",
+      "nome": "Chimico",
+      "ingredienti": [
+        "braciole di suino",
+        "pancetta",
+        "mozzarella",
+        "patatine",
+        "maionese"
+      ],
+      "prezzo": 6.0
+    },
+    {
+      "categoria": "paniniSalsiccia",
+      "nome": "Rappresentante",
+      "ingredienti": [
+        "salsiccia",
+        "patatine",
+        "maionese",
+        "ketchup"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniSalsiccia",
+      "nome": "Bagnino",
+      "ingredienti": [
+        "salsiccia",
+        "mozzarella",
+        "melanzane grigliate",
+        "maionese"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniSalsiccia",
+      "nome": "Architetto",
+      "ingredienti": [
+        "salsiccia",
+        "cipolla",
+        "pomodoro",
+        "lattuga"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniSalsiccia",
+      "nome": "Falegname",
+      "ingredienti": [
+        "salsiccia",
+        "cipolla",
+        "mozzarella",
+        "maionese",
+        "ketchup"
+      ],
+      "prezzo": 5.5
+    },
+    {
+      "categoria": "paniniPollo",
+      "nome": "Ingegnere",
+      "ingredienti": [
+        "pollo panato",
+        "cipolla",
+        "maionese",
+        "lattuga",
+        "galbanino",
+        "salsa barbecue"
+      ],
+      "prezzo": 6.0
+    },
+    {
+      "categoria": "paniniPollo",
+      "nome": "Fabbro",
+      "ingredienti": [
+        "pollo panato",
+        "lattuga",
+        "maionese"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "paniniPollo",
+      "nome": "Regista",
+      "ingredienti": [
+        "pollo",
+        "melanzane grigliate"
+      ],
+      "prezzo": 4.8
+    },
+    {
+      "categoria": "paniniTonno",
+      "nome": "Pescatore",
+      "ingredienti": [
+        "tonno",
+        "pomodoro",
+        "lattuga",
+        "maionese"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "paniniTonno",
+      "nome": "Ragioniere",
+      "ingredienti": [
+        "tonno",
+        "mozzarella",
+        "cipolla",
+        "patatine",
+        "maionese",
+        "salsa barbecue"
+      ],
+      "prezzo": 5.5
+    },
+    {
+      "categoria": "paniniTonno",
+      "nome": "Marinaio",
+      "ingredienti": [
+        "tonno",
+        "cipolla",
+        "mozzarella",
+        "pomodoro",
+        "maionese"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "paniniTonno",
+      "nome": "Grafico",
+      "ingredienti": [
+        "tonno",
+        "pomodoro",
+        "mozzarella",
+        "melanzane grigliate"
+      ],
+      "prezzo": 5.0
+    },
+    {
+      "categoria": "piadine",
+      "nome": "Piada",
+      "ingredienti": [
+        "prosciutto crudo",
+        "mozzarella"
+      ],
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "piadine",
+      "nome": "Piada2",
+      "ingredienti": [
+        "prosciutto crudo",
+        "mozzarella",
+        "funghi"
+      ],
+      "prezzo": 4.5
+    },
+    {
+      "categoria": "fritture",
+      "nome": "Patatine piccole",
+      "note": "Supplem. wurstel 1 €",
+      "prezzo": 2.5
+    },
+    {
+      "categoria": "fritture",
+      "nome": "Patatine grandi",
+      "note": "Supplem. wurstel 1 €",
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "dolci",
+      "nome": "Piada Nutella",
+      "note": "Supplemento da 0,30 a 2,50 €",
+      "prezzo": 2.5
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Caffè",
+      "prezzo": 1.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Acqua 1,5 L",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Acqua 1/2 L",
+      "prezzo": 1.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Bibite in lattina",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Messina 33 cl.",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Moretti 33 cl.",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Dreher Limone 33 cl.",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Ceres 33 cl.",
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Ceres Rossa 33 cl.",
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Corona 33 cl.",
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Tennent's 33 cl.",
+      "prezzo": 4.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Heineken 33 cl.",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Bud 33 cl.",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Becks 33 cl.",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Birra DOC",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Birra dello Stretto",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Birra Zero",
+      "prezzo": 2.5
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Birra No Glutine",
+      "prezzo": 3.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Red Bull",
+      "prezzo": 2.5
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Sambusoda",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Succhi di frutta",
+      "prezzo": 1.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Succo di mirtillo",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Gatorade",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Schweppes T/L",
+      "prezzo": 2.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Vino Rosso/Bianco",
+      "prezzo": 9.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Prosecchino 20 cl.",
+      "prezzo": 3.5
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Spumante 70 cl.",
+      "prezzo": 9.0
+    },
+    {
+      "categoria": "bevande",
+      "nome": "Vino 25 cl.",
+      "prezzo": 3.5
+    }
+  ]
+}
